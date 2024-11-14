@@ -2,8 +2,11 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-## Developed By: Tharun Sridhar 
-## Reg.NO: 212223230230
+
+**Developed By: Tharun Sridhar**
+
+**Reg.NO: 212223230230**
+
 # AIM:
 To practice Linux Commands and Shell Scripting
 
